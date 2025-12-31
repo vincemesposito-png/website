@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(start \"\" \"C:\\Users\\Owner\\Desktop\\dad_projects\\2026\\website\\index.html\")"
+    ]
+  }
+}
